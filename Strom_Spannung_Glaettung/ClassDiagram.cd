@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CModell">
+    <Position X="4.75" Y="0.75" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gIAiEBAgREAQAIDAEIAgcoGEyAmUAAAEQoRQgUYsjUQ=</HashCode>
+      <FileName>CModell.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CColor">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EACAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAIAEAGoA=</HashCode>
+      <FileName>Koordinatensystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CData">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQIAAAAAEQAAQAAAAgAoAAUCAAAACABAQAAkoIMACAA=</HashCode>
+      <FileName>Koordinatensystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CKoordinatensystem">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>FcCRgEIDOIqAQgFIDAMICRA8A0gDECAogYiwRAdwAoI=</HashCode>
+      <FileName>Koordinatensystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStromSpannungGlaettungDlg">
+    <Position X="9.75" Y="3" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="CStromSpannungGlaettungDlg::__unnamed_enum_040c_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Strom_Spannung_GlaettungDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EACAIAEAAAAAAAAAQBAABAAAAgAAJAQAAAAAAAAQAAA=</HashCode>
+      <FileName>Strom_Spannung_GlaettungDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

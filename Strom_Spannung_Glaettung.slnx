@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Strom_Spannung_Glaettung/Strom_Spannung_Glaettung.vcxproj" />
+</Solution>
