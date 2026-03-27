@@ -30,3 +30,8 @@ Custom Coordinate System: Dynamic scaling engine supporting both linear and loga
 Robust Memory Management: Full implementation of the Rule of Three (Destructor, Copy Constructor, Assignment Operator) for leak-proof dynamic memory handling.
 
 Polymorphism: Utilization of abstract controller base classes for various control strategies.
+
+
+![Strom_und_Spannungsglättung_C++](https://github.com/user-attachments/assets/b4476ba2-2bbf-461e-9e2d-00c23f23fa86)
+
+
